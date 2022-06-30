@@ -1,0 +1,1 @@
+Exercise is based on [01-css-methods](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/01-css-methods)
