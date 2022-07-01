@@ -1,0 +1,1 @@
+Exercise is based on [05-descendant-combinator](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/05-descendant-combinator)
