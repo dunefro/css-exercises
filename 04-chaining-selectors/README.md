@@ -1,0 +1,1 @@
+Exercise is based on [04-chaining-selectors](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/04-chaining-selectors)
