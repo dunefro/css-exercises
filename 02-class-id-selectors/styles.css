@@ -1,0 +1,18 @@
+.class-odd {
+    background-color: rgb(253, 4, 116);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#id2 {
+    color: #0000ff;
+    font-size: 32px;
+}
+.class-odd.class-3 {
+    background-color: rgb(253, 4, 116);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#id4 {
+    background-color: rgb(99, 253, 99);
+    font-size: 24px;
+    font-weight: bold;
+}
