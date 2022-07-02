@@ -1,0 +1,1 @@
+Exercise is based on [06-cascade-fix](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/06-cascade-fix)
